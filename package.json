@@ -1,0 +1,43 @@
+{
+  "name": "markdown-book",
+  "description": "Generate a Epub or Kindle book file from a Markdown file including chapters and sections.",
+  "version": "0.0.1",
+  "homepage": "https://github.com/jimmyhillis/markdown-book",
+  "author": {
+    "name": "Jimmy Hillis",
+    "email": "jimmy@hillis.me",
+    "url": "http://jimmy.hillis.me"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jimmyhillis/markdown-book.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jimmyhillis/markdown-book/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/jimmyhillis/markdown-book/blob/master/LICENSE"
+    }
+  ],
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {
+    "markdown": "~0.5.0",
+    "optimist": "~0.6.0",
+    "cheerio": "~0.12.3",
+    "temp": "~0.6.0",
+    "handlebars": "~1.0.12"
+  },
+  "devDependencies": {
+  },
+  "scripts": {},
+  "keywords": [
+    "gruntplugin",
+    "kindle",
+    "markdown",
+    "epub"
+  ]
+}
