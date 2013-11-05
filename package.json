@@ -29,7 +29,8 @@
     "optimist": "~0.6.0",
     "cheerio": "~0.12.3",
     "temp": "~0.6.0",
-    "handlebars": "~1.0.12"
+    "handlebars": "~1.0.12",
+    "node-epub": "git://github.com/jimmyhillis/node-epub.git"
   },
   "devDependencies": {
   },
